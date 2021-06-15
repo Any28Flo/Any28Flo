@@ -5,7 +5,7 @@ Hi, I'm Analin Flores, a Full Stack Developer 🚀 from Mexico City. Beside's pr
 const analinFlores = {
   pronouns: "she" | "her",
   nickname : "Daedra",
-  code: [Javascript, Typescript, HTML5, CSS3,Git],
+  code: [Javascript, Typescript, HTML5, CSS3,Git, PHP, Python],
   tools: [React, Node, Styled-Components],
 
   techCommunities: {
